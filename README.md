@@ -1,7 +1,7 @@
 
 
 
-I am a developer who started coding in high school (AP CS), I have built systems for school, professional roles, and personal ventures.
+I am a developer who started coding in high school (AP CS), I have written code for school, professional roles, and personal ventures.
 
 ***
 
