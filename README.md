@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**shiv060600/shiv060600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🔒 Shiv: Developer Portfolio Note
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a developer who started coding in high school (AP CS), I have built systems for school, professional roles, and personal ventures.
+
+***
+
+### 🛠️ Core Expertise:
+
+* **Data Engineering:** Python (Pandas, **Polars**, PySpark), **SQL**
+* **Backend & APIs:** **FastAPI**, Python
+* **Web/Mobile:** React, React Native, Next.js
+* **Side Interest:** Currently learning C++
+
+***
+
+My most advanced and proprietary work (production-level company code and side projects with financial potential) is maintained in **private repositories**.
+
+The public projects displayed here serve to demonstrate foundational skills and areas of interest across my tech stack.
+
+For an in-depth discussion of my private work, please contact me directly at: **bhutani.sh@northesatern.edu**
