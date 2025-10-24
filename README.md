@@ -1,6 +1,5 @@
 
 
-# 🔒 Shiv: Developer Portfolio Note
 
 I am a developer who started coding in high school (AP CS), I have built systems for school, professional roles, and personal ventures.
 
