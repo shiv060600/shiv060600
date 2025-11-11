@@ -1,11 +1,11 @@
 
 
 
-I am a developer who started coding in high school (AP CS), I have written code for school, professional roles, and personal ventures.
+I started coding in high school (AP CS), I have written code for school, professional roles, and personal ventures.
 
 ***
 
-### 🛠️ Core Expertise:
+### Core Expertise:
 
 * **Data Engineering:** Python (Pandas, **Polars**, PySpark), **SQL**
 * **Backend & APIs:** **FastAPI**, Python
