@@ -6,8 +6,8 @@ I started coding in high school (AP CS), I have written code for school, profess
 ***
 
 ### Core Expertise:
-
-* **Data Engineering:** Python (Pandas, **Polars**, PySpark), **SQL**
+* **Languages:** Python,TypeScript,SQL
+* **Data Engineering:** Pandas, **Polars**, PySpark, **SQL**
 * **Backend & APIs:** **FastAPI**, Python
 * **Web/Mobile:** React, React Native, Next.js
 * **Side Interest:** Currently learning C++
