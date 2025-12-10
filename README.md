@@ -10,7 +10,6 @@ I started coding in high school (AP CS), I have written code for school, profess
 * **Data Engineering:** Pandas, **Polars**, PySpark, **SQL**
 * **Backend & APIs:** **FastAPI**, Python, Node
 * **Web/Mobile:** React, React Native, Next.js
-* **Side Interest:** Currently learning C++
 
 ***
 
